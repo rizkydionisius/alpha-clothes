@@ -1,0 +1,4 @@
+{
+  "framework": "react",
+  "proxy": "/api/*:https://alpha-clothes.vercel.app/"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Fulan",
+    "email": "fulan@gmail.com",
+    "password": "$2b$10$B4AW7IsYDgORB73o4LJVr.Zh8nJjSN73VMVKhOCaN8Y5uzF6v3g6u"
+  },
+  {
+    "fullName": "Dion",
+    "email": "dion@gmail.com",
+    "password": "$2b$10$bhaM/bOOtAAC/lhQtQ7leuhVe4eMQDEQPMxftrYoq20/MyZZKmVPG"
+  },
+  {
+    "fullName": "Ucup Surucup",
+    "email": "ucup@gmail.com",
+    "password": "$2b$10$RWVHxs/cYQys0iI.xFftXOiU9NS52oxZtpcVVn.Pcmo2J5TJ3GyYa"
+  },
+  {
+    "fullName": "Dionisius Rizky",
+    "email": "dionpramu86@gmail.com",
+    "password": "$2b$10$WnCyFtCOlx/Uzs1q7lbY.ecsC28eaNb0DSygqpPjKpMXpebOH9kN."
+  },
+  {
+    "fullName": "Dionisius",
+    "email": "dionpramu@gmail.com",
+    "password": "$2b$10$TK1D.DXnSNaXpbqZFaDoxeC.1.BNTIUAJ0Z3LseZs5TEckKup29Uq"
+  },
+  {
+    "fullName": "Dionisius Rizky Pramusinto",
+    "email": "dionphoto02@gmail.com",
+    "password": "$2b$10$28j4VmM7FshD7ouCKoZCv.cu63NE/KeK2kHyV9QBgf3K.oiKkraS6"
+  }
+]
